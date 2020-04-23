@@ -52,7 +52,7 @@ pic:用来装你的图片
 
 xml:用来装你的标注结果.xml  
 
-yolo_script:用来装脚本，下载下面的文件并解压即可  
+yolo_script:用来装脚本，下载本仓库的脚本并复制进去即可  
 
 
 7.在yolo_script中的configer.py中修改你的参数，参数含义有注释  
